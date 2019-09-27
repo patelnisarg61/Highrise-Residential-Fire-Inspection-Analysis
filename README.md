@@ -19,7 +19,9 @@ Inspections that have commenced and are ongoing will not be available in the dat
 
 
 Total categories for Violation/fire code using its description : 373
+
 No of missing values in dataset: 6114
+
 Total rows: 23914
 
 <img src="https://github.com/patelnisarg61/Highrise-Residents-Fireinspection-Analytics/blob/master/results-detail.PNG" width="800" height="500" style="vertical-align:center;">
