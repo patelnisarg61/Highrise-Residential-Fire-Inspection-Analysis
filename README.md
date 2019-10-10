@@ -1,4 +1,4 @@
-# Highrise-Residents-Fireinspection-Analytics
+# Highrise-Residents-Fireinspection-Analysis
 
 This project will analyze all indicated properties where violations have been found by an Inspector which are required to be fixed for compliance at the time with the Ontario Fire Code as well as properties with no observable violations. This dataset only includes 'Closed' Cases indicating that the inspection process has ended.
 
